@@ -3,7 +3,8 @@
 I started my career in the legal world ⚖️ but decided to take a bold step into technology.  
 What began as curiosity quickly turned into passion — I started with **C and C++**, building low-level projects and learning how computers really work.  
 
-From there, I moved into the web world with **React** ⚛️, exploring how ideas can turn into interactive applications.  
+From there, I moved into the web world with React ⚛️ on the frontend and experimented with Node.js + Fastify on the backend, learning how to build interactive applications that connect seamlessly with APIs. I also started exploring Docker to understand how projects can be deployed and scaled.
+
 Currently, I’m diving deep into **Java** ☕, focusing on backend development and solid software engineering principles.  
 
 💡 I enjoy solving problems, learning new tools, and building projects that connect theory with real-world use.  
