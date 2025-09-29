@@ -26,7 +26,7 @@ Currently, I’m diving deep into **Java** ☕, focusing on backend development 
 ## 📌 Some of my projects
 
 - ⚡ **[Minishell](https://github.com/PiotrJerzy13/minishell)** / **[Philo](https://github.com/PiotrJerzy13/philo)** / **[so_long](https://github.com/PiotrJerzy13/so_long)** — low-level C projects from 42 School  
-- 🌐 **[ft_transcendence](https://github.com/PiotrJerzy13/ft_transcendence)** — full-stack game platform (React + Node.js)  
+- 🌐 **[ft_transcendence](https://github.com/PiotrJerzy13/ft_transcandence)** — full-stack game platform (React + Node.js)  
 - 📊 **[WebServer](https://github.com/PiotrJerzy13/webServer)** / **[Cube3D](https://github.com/PiotrJerzy13/cube3D)** — exploring networking and graphics programming  
 
 ---
