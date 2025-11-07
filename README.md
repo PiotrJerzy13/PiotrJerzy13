@@ -35,6 +35,5 @@ Currently, I’m diving deep into **Java** ☕, focusing on backend development 
 
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrJerzy13&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrJerzy13&layout=compact&theme=tokyonight)  
-[![pwojnaro's 42 stats](https://badge.mediaplus.ma/darkblue/pwojnaro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 --- 
