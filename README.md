@@ -30,10 +30,3 @@ Currently, I’m diving deep into **Java** ☕, focusing on backend development 
 - 📊 **[WebServer](https://github.com/PiotrJerzy13/webServer)** / **[Cube3D](https://github.com/PiotrJerzy13/cube3D)** — exploring networking and graphics programming  
 
 ---
-
-## 📈 GitHub Stats  
-
-![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrJerzy13&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrJerzy13&layout=compact&theme=tokyonight)  
-
---- 
